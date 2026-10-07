@@ -14,7 +14,8 @@ class Solution {
         lCount++ ;
        }
         if(rCount==lCount)
-        {
+        {  rCount =0;
+       lCount =0 ;
             c++ ;
             i++ ;
         }
