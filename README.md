@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1267-count-servers-that-communicate) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0053-maximum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sliding Window
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
