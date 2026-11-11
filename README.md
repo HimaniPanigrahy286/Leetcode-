@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0070-climbing-stairs) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
