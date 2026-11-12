@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1267-count-servers-that-communicate) |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
 | [2747-count-zero-request-servers](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0070-climbing-stairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
