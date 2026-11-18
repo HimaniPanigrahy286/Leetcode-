@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
 | [2747-count-zero-request-servers](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
