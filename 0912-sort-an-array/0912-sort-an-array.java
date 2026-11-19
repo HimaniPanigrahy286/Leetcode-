@@ -1,46 +1,44 @@
 class Solution {
-    public int[] sortArray(int[] arr) {
-        mergeSort(arr,0,arr.length-1) ;
-        return arr ;
-    }
-    void mergeSort(int arr[],int si,int ei)
-    {   if(si>=ei)
-        return ;
-        //kaam 
-        int mid = si+(ei-si)/2 ;//left part sorted by dividing
-        mergeSort(arr,si,mid) ;//right part sorted by dividing
-        mergeSort(arr,mid+1,ei) ;//merge the two arrays 
-        merge(arr,si,mid,ei) ;
-    }
-    void merge(int arr[],int si,int mid,int ei )
+    public void mergeSort(int[]nums, int si, int ei)
     {
-        int temp[] = new int[ei-si+1] ;
-        int i =si;
+        if(si>=ei)
+        return ;
+        int mid =si+((ei-si)/2) ;
+        mergeSort(nums,si,mid) ;
+        mergeSort(nums,mid+1,ei);
+        merge(nums,si,mid,ei) ;
+    }
+    public void merge(int []nums,int si,int mid,int ei)
+    {   int temp[]= new int[ei-si+1] ;
+        int i =si ;
         int j = mid+1 ;
-        int k = 0 ;
-        while(i<=mid && j<=ei)
+        int k = 0;
+        while(i<=mid &&j<=ei)
         {
-          if(arr[i]<=arr[j]){
-            temp[k]=arr[i]; 
-            i++ ;
-          }
-          else{
-            temp[k]=arr[j]; 
-            j++ ;
-          }
-          k++ ;
+            if(nums[i]<=nums[j])
+            {
+                temp[k++]=nums[i++] ;
+            }
+            else
+            {
+                temp[k++]=nums[j++] ;
+            }
         }
-        while(i<=mid)
+            while(i<=mid)
+            {
+                temp[k++]=nums[i++] ;
+            }
+            while(j<=ei)
+            {
+                temp[k++]=nums[j++] ;
+            }
+        for(k=0,i=si;k<temp.length;k++,i++)
         {
-            temp[k++]=arr[i++] ;
+            nums[i]=temp[k] ;
         }
-        while(j<=ei)
-        {
-            temp[k++]=arr[j++] ;
-        }
-        for (k = 0; k < temp.length; k++) {
-            arr[si + k] = temp[k];
-        }
-
+    }
+    public int[] sortArray(int[] nums) {
+            mergeSort(nums,0,nums.length-1) ;
+            return nums ;
     }
 }
