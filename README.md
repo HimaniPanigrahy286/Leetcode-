@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
+| [0303-range-sum-query-immutable](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0912-sort-an-array) |
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
