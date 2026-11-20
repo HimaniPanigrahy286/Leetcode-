@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0912-sort-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1882-process-tasks-using-servers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0912-sort-an-array) |
@@ -149,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
