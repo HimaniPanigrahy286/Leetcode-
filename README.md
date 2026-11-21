@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0912-sort-an-array](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0912-sort-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1207-unique-number-of-occurrences) |
 | [1267-count-servers-that-communicate](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0169-majority-element) |
+| [1207-unique-number-of-occurrences](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1207-unique-number-of-occurrences) |
 | [2747-count-zero-request-servers](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
