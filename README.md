@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1882-process-tasks-using-servers) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2747-count-zero-request-servers](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
