@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0704-binary-search](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1207-unique-number-of-occurrences) |
 | [1267-count-servers-that-communicate](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1267-count-servers-that-communicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HimaniPanigrahy286/Leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Depth-First Search
 |  |
